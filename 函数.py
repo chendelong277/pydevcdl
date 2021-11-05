@@ -1,4 +1,5 @@
 def say_hello():
-<<<<<<< HEAD
     print('hello world')
-say_hello()
+
+for i in range(1,5):
+    say_hello()
